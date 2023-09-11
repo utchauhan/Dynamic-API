@@ -1,5 +1,5 @@
 global abstract class Api {
-    public static String HANDLER_NAME = 'ApiHandler';
+    public static String HANDLER_NAME = 'ApiHandler';//get from meta data
     public static final String BASIC_RESPONSE = 'HTTP method not yet implemented';
 
     global class Response {
